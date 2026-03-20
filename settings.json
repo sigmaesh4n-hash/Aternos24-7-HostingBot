@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ahh.aternos.me",
+    "ip": "ahhstate.aternos.me",
     "port": 37223,
     "version": "",
     "try-creative": false
