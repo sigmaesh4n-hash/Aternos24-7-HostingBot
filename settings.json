@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ahhstate.aternos.me",
+    "ip": "basslet.aternos.host",
     "port": 37223,
     "version": "",
     "try-creative": false
